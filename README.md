@@ -2,6 +2,8 @@
 
 A complete, functional, responsive web-based Appointment and Request Management System for schools with blue-themed design.
 
+[GitHub repository - jrnxrnel](https://github.com/jrnxrnel/Tempo_Appointment_and_Reminder_System)
+
 ## Features
 
 - **One Website, One Database** - All users access the same TEMPO application
